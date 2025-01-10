@@ -447,7 +447,7 @@ class EpisodeNoExist(_PluginBase):
                     logger.debug("未获取到媒体库items信息, 跳过获取缺失集数")
                     continue
                 for item in library_items:
-                    if __item_count >= 30:
+                    if __item_count >= 3000000:
                         break
                     __item_count += 1
 
