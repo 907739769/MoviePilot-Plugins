@@ -8,6 +8,7 @@
     "author": "boeto",
     "level": 2,
     "history": {
+      "v2.0.1": "feat: 可以处理全部剧集"
       "v2.0.0": "feat: 升级至v2,添加仅检查已有季缺失选项"
     }
   }
